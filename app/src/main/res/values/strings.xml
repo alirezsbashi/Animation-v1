@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="alpha">alpha</string>
+    <string name="rotation">rotation</string>
+    <string name="scalex">ScaleX</string>
+    <string name="scaley">ScaleY</string>
+</resources>
